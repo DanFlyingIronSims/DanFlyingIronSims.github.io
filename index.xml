@@ -19,6 +19,19 @@ The presentation focuses on the latest developments in Flightstream, including t
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>https://DanFlyingIronSims.github.io/projects/</link>
+      <pubDate>Fri, 02 Sep 2022 01:49:08 +1000</pubDate>
+      
+      <guid>https://DanFlyingIronSims.github.io/projects/</guid>
+      <description>OpenVSP to FlightStream Model Conversion UtilityLink to headingThis utility by DKAS Consulting allows you to quickly &amp;amp; easily convert your VSP model into a FlightStream ready CCS File. The CCS file can be imported to FlightStream with 1-click, and allows you to quickly and easily define mesh refinement &amp;amp; control surfaces.
+Free Version: Download
+Premium Version: Coming Soon.
+Planned Features:
+Config file to save parameters for each aircraft.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://DanFlyingIronSims.github.io/about/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
