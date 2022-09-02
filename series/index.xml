@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Dkas Consulting</title>
-    <link>https://DanFlyingIronSims.github.io/series/</link>
+    <link>https://dkasconsulting.com/series/</link>
     <description>Recent content in Series on Dkas Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://DanFlyingIronSims.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dkasconsulting.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CFD</title>
-      <link>https://DanFlyingIronSims.github.io/series/cfd/</link>
+      <link>https://dkasconsulting.com/series/cfd/</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://DanFlyingIronSims.github.io/series/cfd/</guid>
+      <guid>https://dkasconsulting.com/series/cfd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenVSP</title>
-      <link>https://DanFlyingIronSims.github.io/series/openvsp/</link>
+      <link>https://dkasconsulting.com/series/openvsp/</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://DanFlyingIronSims.github.io/series/openvsp/</guid>
+      <guid>https://dkasconsulting.com/series/openvsp/</guid>
       <description></description>
     </item>
     
