@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DCS on DKAS Consulting</title>
+    <link>https://dkasconsulting.com/series/dcs/</link>
+    <description>Recent content in DCS on DKAS Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dkasconsulting.com/series/dcs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DCS World Joystick Setup Tool (For Devs)</title>
+      <link>https://dkasconsulting.com/posts/dcs_joystick_utility/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dkasconsulting.com/posts/dcs_joystick_utility/</guid>
+      <description>Hi,
+Today I&amp;rsquo;m sharing a very simple tool that may be useful for other DCS World developers.
+It is a simple python script that automates the creation of your aircrafts joystick input lua file, so that you don&amp;rsquo;t need to make it twice. It does this by copying your keyboard lua setup file.
+To use the script, simply place it in your DCS modules input/keyboard folder and run it.
+Get it here</description>
+    </item>
+    
+  </channel>
+</rss>
